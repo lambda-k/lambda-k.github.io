@@ -3745,7 +3745,7 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 50%;
 		}
 
 			#cta .inner header p {
@@ -3757,7 +3757,7 @@ input, select, textarea {
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
-			width: 30%;
+			width: 50%;
 		}
 
 		@media screen and (max-width: 980px) {
